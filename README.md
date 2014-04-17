@@ -17,7 +17,7 @@ Add the correct class to any animated object to delay it.
 
     <div class="animated fadeInUp delay0s5ms animated"></div>
 
-## Classes are made of:
+### How it works
 
 'delay' - Fixed begining of class name
 
