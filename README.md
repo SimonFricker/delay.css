@@ -27,6 +27,7 @@ Add the correct class to any animated object to delay it.
 
 So all togeather you get delay0s5ms
 
+
 That's it! You've got the power to delay CSS elements from animating. Now go have fun! 
 
 
