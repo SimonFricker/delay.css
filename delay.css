@@ -1,7 +1,7 @@
 /* Animation delay
 --------------------------------------------------------------------- */
 
-.delayp1 {
+.delay0s1ms {
   animation-delay: .1s;
   -moz-animation-delay: .1s;
   -webkit-animation-delay: .1s;
@@ -11,7 +11,7 @@
   -moz-transition-delay: .1s;
   -o-transition-delay: .1s;
 }
-.delayp2 {
+.delay0s2ms {
   animation-delay: .2s;
   -moz-animation-delay: .2s;
   -webkit-animation-delay: .2s;
@@ -21,7 +21,7 @@
   -moz-transition-delay: .2s;
   -o-transition-delay: .2s;
 }
-.delayp3 {
+.delay0s3ms {
   animation-delay: .3s;
   -moz-animation-delay: .3s;
   -webkit-animation-delay: .3s;
@@ -31,7 +31,7 @@
   -moz-transition-delay: .3s;
   -o-transition-delay: .3s;
 }
-.delayp4 {
+.delay0s4ms {
   animation-delay: .4s;
   -moz-animation-delay: .4s;
   -webkit-animation-delay: .4s;
@@ -41,7 +41,7 @@
   -moz-transition-delay: .4s;
   -o-transition-delay: .4s;
 }
-.delayp5 {
+.delay0s5ms {
   animation-delay: .5s;
   -moz-animation-delay: .5s;
   -webkit-animation-delay: .5s;
@@ -51,7 +51,7 @@
   -moz-transition-delay: .5s;
   -o-transition-delay: .5s;
 }
-.delayp6 {
+.delay0s6ms {
   animation-delay: .6s;
   -moz-animation-delay: .6s;
   -webkit-animation-delay: .6s;
@@ -61,7 +61,7 @@
   -moz-transition-delay: .6s;
   -o-transition-delay: .6s;
 }
-.delayp7 {
+.delay0s7ms {
   animation-delay: .7s;
   -moz-animation-delay: .7s;
   -webkit-animation-delay: .7s;
@@ -71,7 +71,7 @@
   -moz-transition-delay: .7s;
   -o-transition-delay: .7s;
 }
-.delayp8 {
+.delay0s8ms {
   animation-delay: .8s;
   -moz-animation-delay: .8s;
   -webkit-animation-delay: .8s;
@@ -81,7 +81,7 @@
   -moz-transition-delay: .8s;
   -o-transition-delay: .8s;
 }
-.delayp9 {
+.delayp0s9ms {
   animation-delay: .9s;
   -moz-animation-delay: .9s;
   -webkit-animation-delay: .9s;
@@ -91,7 +91,7 @@
   -moz-transition-delay: .9s;
   -o-transition-delay: .9s;
 }
-.delay1s {
+.delay1s0ms {
   animation-delay: 1s;
   -moz-animation-delay: 1s;
   -webkit-animation-delay: 1s;
@@ -102,7 +102,7 @@
   -o-transition-delay: 1s;
 }
 
-.delay1sp1 {
+.delay1s1ms {
   animation-delay: 1.1s;
   -moz-animation-delay: 1.1s;
   -webkit-animation-delay: 1.1s;
@@ -113,7 +113,7 @@
   -o-transition-delay: 1.1s;
 }
 
-.delay1sp2 {
+.delay1s2ms {
   animation-delay: 1.2s;
   -moz-animation-delay: 1.2s;
   -webkit-animation-delay: 1.2s;
@@ -124,7 +124,7 @@
   -o-transition-delay: 1.2s;
 }
 
-.delay1sp3 {
+.delay1s3ms {
   animation-delay: 1.3s;
   -moz-animation-delay: 1.3s;
   -webkit-animation-delay: 1.3s;
@@ -134,7 +134,7 @@
   -moz-transition-delay: 1.3s;
   -o-transition-delay: 1.3s;
 }
-.delay1sp4 {
+.delay1s4ms {
   animation-delay: 1.4s;
   -moz-animation-delay: 1.4s;
   -webkit-animation-delay: 1.4s;
@@ -144,7 +144,7 @@
   -moz-transition-delay: 1.4s;
   -o-transition-delay: 1.4;
 }
-.delay1sp5 {
+.delay1s5ms {
   animation-delay: 1.5s;
   -moz-animation-delay: 1.5s;
   -webkit-animation-delay: 1.5s;
@@ -154,7 +154,7 @@
   -moz-transition-delay: 1.5s;
   -o-transition-delay: 1.5s;
 }
-.delay1sp6 {
+.delay1s6ms {
   animation-delay: 1.6s;
   -moz-animation-delay: 1.6s;
   -webkit-animation-delay: 1.6s;
@@ -164,7 +164,7 @@
   -moz-transition-delay: 1.6s;
   -o-transition-delay: 1.6s;
 }
-.delay1sp7 {
+.delay1s7ms {
   animation-delay: 1.7s;
   -moz-animation-delay: 1.7s;
   -webkit-animation-delay: 1.7s;
@@ -174,7 +174,7 @@
   -moz-transition-delay: 1.7s;
   -o-transition-delay: 1.7s;
 }
-.delay1sp8 {
+.delay1s8ms {
   animation-delay: 1.8s;
   -moz-animation-delay: 1.8s;
   -webkit-animation-delay: 1.8s;
@@ -184,7 +184,7 @@
   -moz-transition-delay: 1.8s;
   -o-transition-delay: 1.8s;
 }
-.delay1sp9 {
+.delay1s9ms {
   animation-delay: 1.9s;
   -moz-animation-delay: 1.9s;
   -webkit-animation-delay: 1.9s;
@@ -195,7 +195,7 @@
   -o-transition-delay: 1.9s;
 }
 
-.delay2s {
+.delay2s0ms {
   animation-delay: 2s;
   -moz-animation-delay: 2s;
   -webkit-animation-delay: 2s;
