@@ -1,5 +1,8 @@
-/* Animation delay
---------------------------------------------------------------------- */
+/*!
+ * delay.css v1.1
+ * Copyright 2014 Simon Fricker (www.simonfricker.me)
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
 
 .delay0s1ms {
   animation-delay: .1s;
