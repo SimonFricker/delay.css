@@ -19,7 +19,9 @@ Add the correct class to any animated object to delay it.
 
 Classes are made of 
 'delay' - Fixed begining of class name
+
 '0s' - Number of seconds of delay 
+
 '5ms' - Number of miliseconds of delay
 
 So all togeather you get delay0s5ms
